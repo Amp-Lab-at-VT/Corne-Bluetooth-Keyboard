@@ -21,7 +21,7 @@ Edmond Torskiy
 Tyler Shaffer
 
 ## Repo Link
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Corne-Bluetooth-Keyboard"" >Corne-Bluetooth-Keyboard</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Corne-Bluetooth-Keyboard" >Corne-Bluetooth-Keyboard</a>
 
 ## Photo
 
