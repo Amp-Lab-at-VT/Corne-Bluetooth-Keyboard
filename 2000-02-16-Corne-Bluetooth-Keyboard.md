@@ -9,8 +9,7 @@ hero_height: is-small
 hero_darken: true
 tags: project
 series: amp_lab_project
-author: Edmond Torskiy
-Tyler Shaffer
+author: Edmond Torskiy, Tyler Shaffer
 show_sidebar: false
 ---
 
